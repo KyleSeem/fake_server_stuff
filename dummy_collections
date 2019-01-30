@@ -1,0 +1,89 @@
+{
+    "collections" : [
+        {
+            "id": 1,
+            "attributes": {
+                "channel": "cattv",
+                "title": "Eat and than sleep on your face.",
+                "description": "Suddenly go on wild-eyed crazy rampage cat is love, cat is life more napping, more napping all the napping is exhausting. You have cat to be kitten me right meow cats secretly make all the worlds muffins licks paws chase laser.",
+                "tags": ["Cats", "Crazy", "Sleepy"],
+                "children": [
+                    { "videoId": "string-id-for-video-1" },
+                    { "videoId": "string-id-for-video-2" },
+                    { "videoId": "string-id-for-video-3" },
+                    { "videoId": "string-id-for-video-4" },
+                    { "videoId": "string-id-for-video-5" },
+                    { "videoId": "string-id-for-video-6" }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "channel": "cattv",
+                "title": "Make it to the carpet before i vomit",
+                "description": "Dream about hunting birds try to jump onto window and fall while scratching at wall yet trip owner up in kitchen i want food purrrrrr yet plays league of legends, cough furball into food bowl then scratch owner for a new one.",
+                "tags": ["Vomit", "Cats"],
+                "children": [
+                    { "videoId": "string-id-for-video-1" },
+                    { "videoId": "string-id-for-video-2" },
+                    { "videoId": "string-id-for-video-3" },
+                    { "videoId": "string-id-for-video-4" },
+                    { "videoId": "string-id-for-video-5" },
+                    { "videoId": "string-id-for-video-6" }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "channel": "cattv",
+                "title": "Mmmmmmm give me attention",
+                "description": "Open the door, let me out, let me out, let me-out, let me-aow, let meaow, meaow! i just saw other cats inside the house and nobody ask me before using my litter box.",
+                "tags": ["Cats", "Outdoors"],
+                "children": [
+                    { "videoId": "string-id-for-video-1" },
+                    { "videoId": "string-id-for-video-2" },
+                    { "videoId": "string-id-for-video-3" },
+                    { "videoId": "string-id-for-video-4" },
+                    { "videoId": "string-id-for-video-5" },
+                    { "videoId": "string-id-for-video-6" }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "channel": "cattv",
+                "title": "Face the wrath of my claws",
+                "description": "Lay on arms while you're using the keyboard always ensure to lay down in such a manner that tail can lightly brush human's nose my cat stared at me he was sipping his tea, too yet i show my fluffy belly but it's a trap!",
+                "tags": ["Cats", "Claws", "Fluffy"],
+                "children": [
+                    { "videoId": "string-id-for-video-1" },
+                    { "videoId": "string-id-for-video-2" },
+                    { "videoId": "string-id-for-video-3" },
+                    { "videoId": "string-id-for-video-4" },
+                    { "videoId": "string-id-for-video-5" },
+                    { "videoId": "string-id-for-video-6" }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "channel": "cattv",
+                "title": "Cat slap dog in face",
+                "description": "If it fits, i sits freak human out make funny noise mow mow mow mow mow mow success now attack human under the bed, for i like cats because they are fat and fluffy find box a little too small and curl up with fur hanging out , sit and stare. I bet my nine lives on you-oooo-ooo-hooo eat from dog's food and you call this cat food.",
+                "tags": ["Cats", "Spacial Reasoning"],
+                "children": [
+                    { "videoId": "string-id-for-video-1" },
+                    { "videoId": "string-id-for-video-2" },
+                    { "videoId": "string-id-for-video-3" },
+                    { "videoId": "string-id-for-video-4" },
+                    { "videoId": "string-id-for-video-5" },
+                    { "videoId": "string-id-for-video-6" }
+                ]
+            }
+        }
+    ]
+}
